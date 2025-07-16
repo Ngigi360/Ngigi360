@@ -36,6 +36,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" height="40" alt="numpy logo"  />
 </div>
 
+[![wakatime](https://wakatime.com/badge/user/2ed6cd79-e80b-4fc1-ae91-163d848fdeec.svg)](https://wakatime.com/@2ed6cd79-e80b-4fc1-ae91-163d848fdeec)
+
 ###
 
 <p align="left">Github stats</p>

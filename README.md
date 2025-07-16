@@ -1,3 +1,5 @@
+#  Francis
+
 <p align="left">•	👋Hi, I'm Francis Ngigi – a dedicated G.IS & Remote Sensing Specialist<br>•	👀 I’m interested in programming, machine-learning and data science.<br>•	GIS and Remote Sensing | EO| Web GIS Development | Python | Qgis| JavaScript | SQL | <br> #ArcGIS | #earthengine | AI/ML | Freelance +254711631587<br>•	💞️ I’m looking to collaborate on Geospatial data science, AI /ML , Remote Sensing Analysis and Web GIS Development<br><br><br>📈 I'm passionate about: Environmental monitoring, Climate resilience, sustainable development, and building GIS tools that support data-driven decisions.</p>
 
 ###
